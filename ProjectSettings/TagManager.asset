@@ -6,6 +6,11 @@ TagManager:
   tags:
   - MonsterWeapon
   - Monster
+  - Projectile
+  - player01
+  - player02
+  - player03
+  - player04
   layers:
   - Default
   - TransparentFX
