@@ -83,22 +83,20 @@ III.	뒤에서 공격감지 진동모듈: 10번 포트와 연결
 
 
 # H. 참고 자료 
-1. 유니티 github.desktop 연동 방법 , 깃의 기능 관련 설명도 있음
-https://www.youtube.com/watch?v=wBsSUBEUYV4
 
-2. gun
+1. gun
 https://www.youtube.com/watch?v=QUCPh9ZuryU
 
-3. touchpad movement
+2. touchpad movement
 https://www.youtube.com/watch?v=EUnQ4whsQcU
 
-4. 미노타우로스
+3. 미노타우로스
 https://you-rang.tistory.com/127
 
-5. VR controller Movement
+4. VR controller Movement
 https://www.youtube.com/watch?v=QREKO1sf8b8
 
-6. Blaster Weapon
+5. Blaster Weapon
 https://www.youtube.com/watch?v=QUCPh9ZuryU
 
 
