@@ -56,7 +56,7 @@ III.	뒤에서 공격감지 진동모듈: 10번 포트와 연결
 
 
 # D. 결론 
-     Assets 폴더에 PPT 파일 확인
+     Assets -> Document -> PPT 파일 확인
 
 
 
